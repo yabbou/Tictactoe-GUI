@@ -1,2 +1,2 @@
-# tictactoe-GUI
+# Tictactoe-GUI
 Tic-Tac-Toe Game GUI
